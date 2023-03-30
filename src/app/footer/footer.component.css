@@ -1,0 +1,11 @@
+footer {
+  background-color: #acc18a;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

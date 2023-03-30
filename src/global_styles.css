@@ -1,0 +1,11 @@
+body {
+  background-color: #f2fbe0;
+}
+
+app-root{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  
+}
